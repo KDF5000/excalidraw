@@ -26,7 +26,8 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "vite-plugin-html": "3.2.2"
+    "vite-plugin-html": "3.2.2",
+    "yarn": "1.22.22"
   },
   "prettier": "@excalidraw/prettier-config",
   "scripts": {
